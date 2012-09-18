@@ -53,5 +53,8 @@
     <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="11184810" offsetX="25" offsetY="10" x="258" y="545"/>
     <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="14408667" offsetX="25" offsetY="10" x="272" y="566"/>
     <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="16053492" offsetX="25" offsetY="10" x="553" y="50"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="5066061" offsetX="25" offsetY="10" x="295" y="310"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="1417490" offsetX="25" offsetY="10" x="145" y="83"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="15921906" offsetX="25" offsetY="10" x="440" y="395"/>
   </Marks>
 </MKM>

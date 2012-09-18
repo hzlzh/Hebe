@@ -1,0 +1,707 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"sli",
+				"slideDown"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"pos",
+				"pos:a	position:absolute"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"fl",
+				"fl:l	float:left"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"jque",
+				"jQuery.post	jQuery.post"
+			],
+			[
+				"ev",
+				"event_key"
+			],
+			[
+				"api",
+				"api_key"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"li-img",
+				"li-img"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"ul",
+				"ul"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"po",
+				"pos:a	position:absolute"
+			],
+			[
+				"r",
+				"relative"
+			],
+			[
+				"bg",
+				"bgi	background-image"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"fun",
+				"function_exists"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"br",
+				"background-repeat"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"sol",
+				"solid-line"
+			],
+			[
+				"subm",
+				"submit-btn"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"tex",
+				"text-indent"
+			],
+			[
+				"de",
+				"text-decoration"
+			],
+			[
+				"total",
+				"total_page"
+			],
+			[
+				"jqe",
+				"jQuery.get	jQuery.get"
+			],
+			[
+				"load",
+				"load_captcha"
+			],
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"slid",
+				"slideUp"
+			],
+			[
+				"jQ",
+				"jQuery.get	jQuery.get"
+			],
+			[
+				"aja",
+				"ajax-box"
+			],
+			[
+				"su",
+				"success"
+			],
+			[
+				"par",
+				"parent"
+			],
+			[
+				"clear",
+				"clear_form_msg"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"login",
+				"loginname"
+			],
+			[
+				"list",
+				"list_box"
+			],
+			[
+				"fir",
+				"first-child"
+			],
+			[
+				"an",
+				"anonymous"
+			],
+			[
+				"pren",
+				"parent"
+			],
+			[
+				"paren",
+				"parents"
+			],
+			[
+				"li",
+				"live"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"loginna",
+				"loginname"
+			],
+			[
+				"is",
+				"is-login"
+			],
+			[
+				"cac",
+				"capcha"
+			],
+			[
+				"sil",
+				"siblings"
+			],
+			[
+				"si",
+				"siblings"
+			],
+			[
+				"sou",
+				"source_url"
+			],
+			[
+				"share",
+				"share_url"
+			],
+			[
+				"has",
+				"hasClass"
+			],
+			[
+				"conso",
+				"console.log('')	console.log('')"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 267.0,
+		"selected_items":
+		[
+			[
+				"for",
+				"Format: Javascript"
+			],
+			[
+				"prett",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"js",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"json",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"fo",
+				"Format: Javascript"
+			],
+			[
+				"def",
+				"Preferences: Settings - Default"
+			],
+			[
+				"alia",
+				"Preferences: Alignment Key Bindings – Default"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/iapps2012/application/views/layouts/default_pub.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/iapps2012/application/views/partial/banner.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/iapps2012/public/js/script.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/iapps2012/public/css/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/iapps2012/application/views/pub/contact.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/iapps2012/application/views/partial/sidebar_pub.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/iapps2012/application/views/pub/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/iapps2012/application/views/partial/sidebar_join.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/iapps2012/application/views/pub/join_in_step1.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/iapps2012/application/views/pub/join_in_step3.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/iapps2012/application/views/pub/join_in_step2.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/iapps2012/application/views/pub/history_2011.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/iapps2012/application/views/pub/history_2010.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/iapps2012/application/views/pub/rules.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/iapps2012/application/views/pub/about.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/iapps2012/application/views/login.php",
+		"/Users/hzlzh/Desktop/example/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/iapps2012/application/views/index.html",
+		"/Users/hzlzh/Desktop/example/css/website.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/iapps2012/public/css/test.css",
+		"/Users/hzlzh/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/hzlzh/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/hzlzh/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Applications/XAMPP/xamppfiles/htdocs/iapps2012/application/views/layouts/default_admin.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/iapps2012/application/views/pub/partners.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/iapps2012/application/views/partial/iApps2012.sublime-project",
+		"/Applications/XAMPP/xamppfiles/htdocs/iapps2012/rules.php",
+		"/Users/hzlzh/Desktop/test-mail-2.html",
+		"/Users/hzlzh/Desktop/test1.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/iapps2012/n/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/iapps2012/footer.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/iapps2012/index.html",
+		"/Users/hzlzh/Project/hzlzh/iApps2012/index.html",
+		"/Users/hzlzh/Project/hzlzh/iApps2012/css/style.css",
+		"/Users/hzlzh/Project/hzlzh/Rhea/feedback.html",
+		"/Users/hzlzh/Project/hzlzh/iApps2012/css/reset.css",
+		"/Users/hzlzh/Project/hzlzh/iApps2012/.gitignore",
+		"/Users/hzlzh/Project/hzlzh/iApps2012/. gitignore",
+		"/Users/hzlzh/Project/hzlzh/iApps2012/iApps2012.sublime-workspace",
+		"/Users/hzlzh/Project/hzlzh/iApps2012/js/script.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/geekevent/application/config/template.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/geekevent/application/controllers/cast.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/geekevent/application/views/search/header.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/geekevent/application/views/blue/root.html",
+		"/Users/hzlzh/Desktop/setting.xml",
+		"/Users/hzlzh/Desktop/update.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/geekevent/application/views/blue/login_root.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/geekevent/application/views/frame/root_header.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/geekevent/public/css/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/geekevent/application/views/rhea/rhea.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/geekevent/application/controllers/rhea.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/geekevent/public/js/script.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/geekevent/public/css/login-style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/geekevent/public/css/seed.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/geekevent/application/views/reuse/comment.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/geekevent/application/views/notification/notify_right.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/geekevent/application/libraries/Captcha_engine_lib.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/geekevent/public/js/login-script.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/geekevent/public/js/script-src.js",
+		"/Users/hzlzh/Desktop/ssl.crt",
+		"/Users/hzlzh/Desktop/ssl.key",
+		"/Applications/XAMPP/xamppfiles/htdocs/geekevent/application/config/config.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/geekevent/application/views/scripts/setting_update.php",
+		"/Users/hzlzh/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/hzlzh/Library/Application Support/Sublime Text 2/Packages/Alignment/Default (OSX).sublime-keymap",
+		"/Users/hzlzh/Library/Application Support/Sublime Text 2/Packages/Terminal/Base File.sublime-settings",
+		"/Applications/XAMPP/xamppfiles/htdocs/geekevent/application/language/chinese/event_lang.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/geekevent/application/views/reuse/share.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/geekevent/.htaccess",
+		"/Applications/XAMPP/xamppfiles/htdocs/geekevent/login/job.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/geekevent/readme.txt",
+		"/Applications/XAMPP/xamppfiles/htdocs/geekevent/favicon.png",
+		"/Applications/XAMPP/xamppfiles/htdocs/geekevent/application/views/event/collection.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/geekevent/application/views/layout/filter-box.php",
+		"/Users/hzlzh/Desktop/test/script-old.js",
+		"/Users/hzlzh/Desktop/untitled.html",
+		"/Users/hzlzh/Desktop/untitled.sublime-snippet"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Applications/XAMPP/xamppfiles/htdocs/iapps2012",
+			"/Applications/XAMPP/xamppfiles/htdocs/geekevent",
+			"<open files>",
+			"",
+			"/Applications/XAMPP/xamppfiles/htdocs/geekevent",
+			"",
+			"/Applications/XAMPP/xamppfiles/htdocs/geekevent"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"status",
+			"text-content",
+			"fancybox",
+			"anim",
+			"amin",
+			"class=\"on\"",
+			"most-p",
+			"most›",
+			"x-loading-spinner-rotate",
+			"hist",
+			"gif",
+			"hangban",
+			"alpha",
+			"hangban",
+			"wangyi",
+			"wang yi›",
+			"zhaoshang",
+			" style=\"top: 75px;\"",
+			"href=\".*.>",
+			"href=\".*.\"",
+			"href=\"http://www.splayer.org\"",
+			"copyright",
+			" style=\"top: 75px;\"",
+			"error-info",
+			"/public/img/",
+			"submit-btn",
+			"text-content",
+			".container .main-content .content .item h3",
+			"submi",
+			"<label for",
+			"submit-form",
+			"text-content",
+			"<?php echo form",
+			"result-box",
+			".container .main-content .sidebar",
+			"sidebar",
+			"partners-box",
+			"partnets",
+			"partners",
+			"partnets",
+			"partners",
+			"fanli",
+			"sougou",
+			"jpeg",
+			"http://iapps.geekpark.net/web_images/apps/1.*./p",
+			"http://iapps.geekpark.net/web_images/apps/1.*./",
+			"http://iapps.geekpark.net/web_images/apps/1。*›",
+			"http://iapps.geekpark.net/web_images/apps/166/",
+			"cooperativeLoading",
+			"h2",
+			"号",
+			"banner-r",
+			"text-content",
+			"<i class=\"solid-line icons\"></i>",
+			".container .main-content .content",
+			"\\",
+			"line",
+			"<i",
+			"i>",
+			"li",
+			"solid-line",
+			".container .main-content .content .text-content",
+			"text-content",
+			"li.hover >",
+			".header .top-menu ul li a:hover, .header .top-menu ul li.hover >",
+			".header .top-menu ul li a:hover, .header .top-menu ul li.hover > ",
+			".header .top-menu ul li a:hover, .header .top-menu ul li.hover > a",
+			"box",
+			".us",
+			"extra_scripts2",
+			"extra_scripts1",
+			"readSeed.wall.init(); ",
+			"search-area",
+			"search-form",
+			"”",
+			"scrollTop",
+			".feedback .fbk-content .fbk-pagination .pagination",
+			"fbk-pagination",
+			"page",
+			"pagena",
+			"页",
+			"login",
+			"seed.css",
+			"](",
+			"for-register",
+			"box-register",
+			"console",
+			"c'o'n's'o'le",
+			"(//)?console.log(.*.)",
+			"(//)||console.log(.*.)",
+			"//console.log(.*.)",
+			"//console.log",
+			"console.log",
+			"                    //console.log('chenggongle')\nconsole.log",
+			"console.log",
+			"console",
+			"do_load_password",
+			"您正在",
+			"邮箱",
+			"placeholder",
+			"place",
+			"<img",
+			"load",
+			"name=\"",
+			"name=\"\"",
+			"name=",
+			"val",
+			"login-user",
+			"login-guest",
+			"load",
+			"lo'a'd",
+			"console",
+			"邮箱地址无效",
+			"do_load_captcha",
+			"        // do_load_captcha();\n        // do_load_captcha();\ndo_load_captcha",
+			"        // do_load_captcha();\ndo_load_captcha",
+			"do_load_captcha",
+			"        // do_load_captcha();\ndo_load_captcha",
+			"do_load_captcha",
+			"live_load_captcha",
+			"show_for",
+			"验证码输入错误",
+			"refresh_option",
+			"密码输入错误",
+			"该邮箱已注册",
+			"不是有效电子邮箱地址",
+			"电子邮箱不能为空",
+			"电子邮箱不能为空\n"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"class=\"on icons app-shadow\"",
+			"",
+			"href=\"###\"",
+			"",
+			"/public/img/2010/",
+			"<label class=\"label\" for",
+			"<span class=\"error-info\"><?php echo form",
+			"partners",
+			"partnets",
+			"jpg",
+			"/public/img/p",
+			"/public/img/",
+			"",
+			"p",
+			".it",
+			"\"",
+			"]:",
+			"captcha",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"css",
+				"css/style.css"
+			],
+			[
+				"tagdynamic",
+				"public/js/libs/tagDynamic/jquery.tagDynamic.js"
+			],
+			[
+				"root",
+				"application/views/blue/root.html"
+			],
+			[
+				"rhea",
+				"application/views/frame/root_header.php"
+			],
+			[
+				"sty",
+				"public/css/style.css"
+			],
+			[
+				"scrip",
+				"public/js/script.js"
+			],
+			[
+				"roo",
+				"application/views/blue/login_root.html"
+			],
+			[
+				"seed",
+				"public/css/seed.css"
+			],
+			[
+				"login-cs",
+				"public/css/login-style.css"
+			],
+			[
+				"login-sc",
+				"public/js/login-script.js"
+			],
+			[
+				"captcha_engine_lib",
+				"application/libraries/Captcha_engine_lib.php"
+			],
+			[
+				"/lib/capc",
+				"application/libraries/Captcha_engine_lib.php"
+			],
+			[
+				"style",
+				"public/css/style.css"
+			],
+			[
+				"reuse",
+				"application/views/reuse/share.php"
+			],
+			[
+				"styl",
+				"public/css/style.css"
+			],
+			[
+				"scri",
+				"public/js/script.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 118.0,
+	"status_bar_visible": true
+}
