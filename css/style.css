@@ -548,13 +548,13 @@ input {
   -webkit-border-radius: 7px;
   -moz-border-radius: 7px;
   float: right;
-  background-color: #f4f4f4;
+  background-color: #ddd;
   padding: 4px 16px;
   line-height: 12px;
   font-size: 12px;
 }
 .container .content-box .content .content-body ul.ticket-list li .date a {
-  color: #999;
+  color: #666;
 }
 .container .content-box .content .content-body ul.ticket-list li .date:hover {
   background-color: #15a112;
