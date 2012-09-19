@@ -4,6 +4,50 @@
 		"selected_items":
 		[
 			[
+				"out",
+				"outline"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"bg",
+				"bgc	background-color"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"fl",
+				"fl:l	float:left"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"lg",
+				"line-height"
+			],
+			[
+				"po",
+				"pos:r	position:relative"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"ima",
+				"image"
+			],
+			[
 				"max-",
 				"max-height"
 			],
@@ -20,20 +64,8 @@
 				"pos:a	position:absolute"
 			],
 			[
-				"ba",
-				"background"
-			],
-			[
 				"in",
 				"inline"
-			],
-			[
-				"fl",
-				"fl:l	float:left"
-			],
-			[
-				"text",
-				"textarea"
 			],
 			[
 				"fon",
@@ -72,24 +104,8 @@
 				"display"
 			],
 			[
-				"bo",
-				"bottom"
-			],
-			[
-				"po",
-				"pos:a	position:absolute"
-			],
-			[
 				"r",
 				"relative"
-			],
-			[
-				"bg",
-				"bgi	background-image"
-			],
-			[
-				"padding",
-				"padding-bottom"
 			],
 			[
 				"fun",
@@ -255,45 +271,17 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "index.haml",
-			"settings":
-			{
-				"buffer_size": 4225,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "css/style.less",
-			"settings":
-			{
-				"buffer_size": 4058,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "css/style.css",
-			"settings":
-			{
-				"buffer_size": 2850,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 6036,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 267.0,
+		"height": 392.0,
 		"selected_items":
 		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
 			[
 				"for",
 				"Format: Javascript"
@@ -323,7 +311,7 @@
 				"Preferences: Alignment Key Bindings – Default"
 			]
 		],
-		"width": 593.0
+		"width": 520.0
 	},
 	"console":
 	{
@@ -340,6 +328,14 @@
 	},
 	"file_history":
 	[
+		"/Users/hzlzh/Project/hzlzh/Hebe/login.html",
+		"/Users/hzlzh/Project/hzlzh/Hebe/index.html",
+		"/Users/hzlzh/Project/hzlzh/Hebe/css/style.css",
+		"/Users/hzlzh/Project/hzlzh/Hebe/index.haml",
+		"/Users/hzlzh/Project/hzlzh/Hebe/login.haml",
+		"/Users/hzlzh/Project/hzlzh/Hebe/post.haml",
+		"/Users/hzlzh/Project/hzlzh/Hebe/post.html",
+		"/Users/hzlzh/Project/hzlzh/Hebe/css/style.less",
 		"/Applications/XAMPP/xamppfiles/htdocs/iapps2012/application/views/layouts/default_pub.php",
 		"/Applications/XAMPP/xamppfiles/htdocs/iapps2012/application/views/partial/banner.php",
 		"/Applications/XAMPP/xamppfiles/htdocs/iapps2012/public/js/script.js",
@@ -441,6 +437,18 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"(\"#",
+			"h3",
+			"260",
+			"content-box",
+			"corners",
+			".transition",
+			"@bg",
+			"2bg",
+			"：",
+			"search",
+			"\ncolor: #ff2222",
+			"color: #ff2222",
 			"status",
 			"text-content",
 			"fancybox",
@@ -556,19 +564,7 @@
 			"邮箱地址无效",
 			"do_load_captcha",
 			"        // do_load_captcha();\n        // do_load_captcha();\ndo_load_captcha",
-			"        // do_load_captcha();\ndo_load_captcha",
-			"do_load_captcha",
-			"        // do_load_captcha();\ndo_load_captcha",
-			"do_load_captcha",
-			"live_load_captcha",
-			"show_for",
-			"验证码输入错误",
-			"refresh_option",
-			"密码输入错误",
-			"该邮箱已注册",
-			"不是有效电子邮箱地址",
-			"电子邮箱不能为空",
-			"电子邮箱不能为空\n"
+			"        // do_load_captcha();\ndo_load_captcha"
 		],
 		"highlight": false,
 		"in_selection": false,
@@ -576,6 +572,8 @@
 		"regex": false,
 		"replace_history":
 		[
+			": ",
+			"\n\n",
 			"class=\"on icons app-shadow\"",
 			"",
 			"href=\"###\"",
@@ -605,126 +603,13 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "index.haml",
-					"settings":
-					{
-						"buffer_size": 4225,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								86,
-								86
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Rails/Ruby Haml.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		},
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 1,
-					"file": "css/style.less",
-					"settings":
-					{
-						"buffer_size": 4058,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								49,
-								49
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/LESS/LESS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "css/style.css",
-					"settings":
-					{
-						"buffer_size": 2850,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "index.html",
-					"settings":
-					{
-						"buffer_size": 6036,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"is_xml": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -756,7 +641,7 @@
 		"cols":
 		[
 			0.0,
-			0.5,
+			0.533693622352,
 			1.0
 		],
 		"rows":

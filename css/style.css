@@ -483,6 +483,7 @@ input {
 }
 .container .content-box .content .content-body .post-body ul {
   margin-left: 20px;
+  margin-top: 10px;
 }
 .container .content-box .content .content-body .post-body ul li {
   margin-bottom: 30px;
