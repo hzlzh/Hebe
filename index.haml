@@ -21,103 +21,121 @@
     })();
 %body
   %header.header
-    %h1.logo 价值传媒技术中心
-    %form#searchform{:action => "/search", :method => "post"}
-      <input id="s" name="q" type="text" value="Search">
-      <input type="submit" value="SEARCH" id="searchsubmit">
+    .top-box
+      %h1
+        %a{:href => "/",:title => "价值传媒技术中心"}
+          %span.logo.icons 价值传媒技术中心
+      %form#searchform{:action => "", :method => "post"}
+        <input id="s" name="q" type="text" value="" placeholder="搜索">
+        <input type="submit" class="icons" value="搜索" id="searchsubmit">
     %nav.menu
       %ul
         %li
-          %a{:href => "/"}
-            %span 文档中心
+          %a{:href => "index.html"}
+            %span.current 文档中心
         %li
           %a{:href => "/"}
             %span 技术团队
         %li
           %a{:href => "/"}
             %span 实习生
-        %li
-          %a{:href => "/"}
+        %li.login-item
+          %a{:href => "login.html"}
             %span 登录
     .breadcrumb
       %ul
+        %li.home
+          %a{:href => "index.html"}
+            %span.icons 
+              %i.icons
         %li
           %a{:href => "/"}
-            %span Home
-        %li
+            %span.icons 文档管理
+        %li.current
           %a{:href => "/"}
-            %span 文档管理
-        %li
-          %a{:href => "/"}
-            %span 全部文档
-
+            %span.icons 全部文档
   .container
-    .content
-      %h2.title
-      .content-body
-        %ul.ticket-list
-          %li
-            %ul
-              %li.title 大数据会banner制作需求
-              %li.date
-                最后更新：
+    .content-box
+      .content
+        %h2.title 全部文档
+        .content-body
+          %ul.ticket-list
+            %li
+              .detail
                 %a{:href => "/"}
-                  %span.last-update 2012.12.11 13:12
-              %li.meta 
-                创建于：
+                  .title 大数据会banner制作需求
+                .meta 
+                  创建于: 
+                  %a{:href => "/"}
+                    %span.create-time 2012-12-11 12:12 
+                  \ / 分类: 
+                  %a{:href => "/"}
+                    %span 极客公园
+              .date
                 %a{:href => "/"}
-                  %span.create-time 2012-12-11 12:12 
+                  最后更新: 2012.12.11 13:12
+            %li
+              .detail
                 %a{:href => "/"}
-                  | 分类：
-                  %span 极客公园
-          %li
-            %ul
-              %li.title 杂志三周年活动，杂志订阅页面细节更新
-              %li.date
-                最后更新：
+                  .title 大数据会banner制作需求
+                .meta 
+                  创建于: 
+                  %a{:href => "/"}
+                    %span.create-time 2012-12-11 12:12 
+                  \ / 分类: 
+                  %a{:href => "/"}
+                    %span 极客公园
+              .date
                 %a{:href => "/"}
-                  %span.last-update 2012.12.11 13:12
-              %li.meta 
-                创建于：
+                  最后更新: 2012.12.11 13:12
+            %li
+              .detail
                 %a{:href => "/"}
-                  %span.create-time 2012-12-11 12:12 
+                  .title 大数据会banner制作需求
+                .meta 
+                  创建于: 
+                  %a{:href => "/"}
+                    %span.create-time 2012-12-11 12:12 
+                  \ / 分类: 
+                  %a{:href => "/"}
+                    %span 极客公园
+              .date
                 %a{:href => "/"}
-                  | 分类：
-                  %span 极客公园
-          %li
-            %ul
-              %li.title 微博杂志促销宣传图片制作
-              %li.date
-                最后更新：
+                  最后更新: 2012.12.11 13:12
+            %li
+              .detail
                 %a{:href => "/"}
-                  %span.last-update 2012.12.11 13:12
-              %li.meta 
-                创建于：
+                  .title 大数据会banner制作需求
+                .meta 
+                  创建于: 
+                  %a{:href => "/"}
+                    %span.create-time 2012-12-11 12:12 
+                  \ / 分类: 
+                  %a{:href => "/"}
+                    %span 极客公园
+              .date
                 %a{:href => "/"}
-                  %span.create-time 2012-12-11 12:12 
+                  最后更新: 2012.12.11 13:12
+            %li
+              .detail
                 %a{:href => "/"}
-                  | 分类：
-                  %span 极客公园
-          %li
-            %ul
-              %li.title 2012爱应用创新评选
-              %li.date
-                最后更新：
+                  .title 大数据会banner制作需求
+                .meta 
+                  创建于: 
+                  %a{:href => "/"}
+                    %span.create-time 2012-12-11 12:12 
+                  \ / 分类: 
+                  %a{:href => "/"}
+                    %span 极客公园
+              .date
                 %a{:href => "/"}
-                  %span.last-update 2012.12.11 13:12
-              %li.meta 
-                创建于：
-                %a{:href => "/"}
-                  %span.create-time 2012-12-11 12:12 
-                %a{:href => "/"}
-                  | 分类：
-                  %span 极客公园
+                  最后更新: 2012.12.11 13:12
       .page_navi
         %ul
           %li
-            %a
-              %span 返回列表
-          %li
+            %a{:href => "/"}
+              %span « 返回列表
+          %li.current
             %a{:href => "/"}
               %span 1
           %li
@@ -127,29 +145,31 @@
             %a{:href => "/"}
               %span 3
           %li
-            %a{:href => "/"}
-              %span ...23
+            %span ...
           %li
             %a{:href => "/"}
-              %span 下一页
+              %span 23
+          %li
+            %a{:href => "/"}
+              %span 下一页 »
     .sidebar
-      %h3.title
+      %h3.title 文档中心
       %ul
-        %li
+        %li.icons
           %a{:href => "/"}
             %span 全部文档
-        %li
+        %li.icons
           %a{:href => "/"}
             %span 极客公园文档
-        %li
+        %li.icons
           %a{:href => "/"}
             %span ITValue文档
-        %li
+        %li.icons
           %a{:href => "/"}
             %span 商业价值客户端文档
-        %li
+        %li.icons
           %a{:href => "/"}
             %span 其他文档
   %footer.footer
-    .copyright Copyright © 2009 - 2012    北京文德致远文化传播有限公司
+    .copyright Copyright &copy;  2009 - 2012 北京文德致远文化传播有限公司
   %script{:src  => "js/script.js"}
