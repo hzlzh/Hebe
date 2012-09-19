@@ -1,4 +1,4 @@
-<MKM version="2.0" imageFileUrl="file:///Users/hzlzh/Project/hzlzh/GeekPark-Ticket-System/Design/%E4%BB%B7%E5%80%BC%E4%BC%A0%E5%AA%92%E6%8A%80%E6%9C%AF%E4%B8%AD%E5%BF%83-1.psd">
+<MKM version="2.0" imageFileUrl="file:///Users/hzlzh/Project/hzlzh/Hebe/Design/%E4%BB%B7%E5%80%BC%E4%BC%A0%E5%AA%92%E6%8A%80%E6%9C%AF%E4%B8%AD%E5%BF%83-1.psd">
   <Marks>
     <LengthMark direction="3" color="16711680" length="80" x="467" y="0"/>
     <LengthMark direction="3" color="16711680" length="26" x="853" y="42"/>
@@ -12,7 +12,7 @@
     <LengthMark direction="3" color="16711680" length="8" x="849" y="196"/>
     <LengthMark direction="12" color="16711680" length="300" x="780" y="248"/>
     <LengthMark direction="12" color="16711680" length="20" x="780" y="204"/>
-    <LengthMark direction="12" color="16711680" length="630" x="120" y="274"/>
+    <LengthMark direction="12" color="16711680" length="630" x="120" y="256"/>
     <LengthMark direction="12" color="16711680" length="20" x="120" y="205"/>
     <LengthMark direction="12" color="16711680" length="20" x="730" y="205"/>
     <LengthMark direction="12" color="16711680" length="20" x="1061" y="204"/>
@@ -36,7 +36,7 @@
     <LengthMark direction="3" color="16711680" length="12" x="158" y="315"/>
     <LengthMark direction="3" color="16711680" length="14" x="169" y="339"/>
     <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="2369575" offsetX="25" offsetY="10" x="559" y="84"/>
-    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="14737632" offsetX="25" offsetY="10" x="1025" y="44"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="14737632" offsetX="25" offsetY="10" x="1025" y="43"/>
     <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="1417490" offsetX="25" offsetY="10" x="563" y="204"/>
     <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="16053492" offsetX="25" offsetY="10" x="557" y="311"/>
     <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="1417490" offsetX="25" offsetY="10" x="556" y="383"/>
@@ -55,6 +55,30 @@
     <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="16053492" offsetX="25" offsetY="10" x="553" y="50"/>
     <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="5066061" offsetX="25" offsetY="10" x="295" y="310"/>
     <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="1417490" offsetX="25" offsetY="10" x="145" y="83"/>
-    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="15921906" offsetX="25" offsetY="10" x="440" y="395"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="15921906" offsetX="25" offsetY="10" x="418" y="411"/>
+    <LengthMark direction="12" color="16711680" length="34" x="120" y="164"/>
+    <LengthMark direction="12" color="16711680" length="33" x="122" y="146"/>
+    <LengthMark direction="12" color="16711680" length="440" x="373" y="313"/>
+    <LengthMark direction="12" color="16711680" length="960" x="121" y="603"/>
+    <LengthMark direction="3" color="16711680" length="31" x="136" y="0"/>
+    <LengthMark direction="12" color="16711680" length="10" x="1051" y="56"/>
+    <LengthMark direction="12" color="16711680" length="10" x="791" y="52"/>
+    <LengthMark direction="3" color="16711680" length="13" x="140" y="67"/>
+    <LengthMark direction="3" color="16711680" length="16" x="299" y="196"/>
+    <LengthMark direction="3" color="16711680" length="21" x="174" y="-150"/>
+    <LengthMark direction="3" color="16711680" length="20" x="174" y="162"/>
+    <LengthMark direction="3" color="16711680" length="18" x="145" y="836"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="16777215" offsetX="25" offsetY="10" x="432" y="185"/>
+    <LengthMark direction="3" color="16711680" length="8" x="168" y="196"/>
+    <LengthMark direction="3" color="16711680" length="16" x="551" y="239"/>
+    <LengthMark direction="3" color="16711680" length="20" x="357" y="390"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="14145495" offsetX="25" offsetY="10" x="475" y="879"/>
+    <LengthMark direction="3" color="16711680" length="38" x="416" y="907"/>
+    <LengthMark direction="3" color="16711680" length="20" x="243" y="940"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="15395562" offsetX="25" offsetY="10" x="648" y="967"/>
+    <LengthMark direction="12" color="16711680" length="20" x="0" y="977"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="15987958" offsetX="25" offsetY="10" x="214" y="884"/>
+    <LengthMark direction="3" color="16711680" length="24" x="887" y="206"/>
+    <LengthMark direction="12" color="16711680" length="13" x="737" y="247"/>
   </Marks>
 </MKM>

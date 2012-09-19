@@ -1,4 +1,4 @@
-<MKM version="2.0" imageFileUrl="file:///Users/hzlzh/Project/hzlzh/GeekPark-Ticket-System/Design/%E4%BB%B7%E5%80%BC%E4%BC%A0%E5%AA%92%E6%8A%80%E6%9C%AF%E4%B8%AD%E5%BF%83-3.psd">
+<MKM version="2.0" imageFileUrl="file:///Users/hzlzh/Project/hzlzh/Hebe/Design/%E4%BB%B7%E5%80%BC%E4%BC%A0%E5%AA%92%E6%8A%80%E6%9C%AF%E4%B8%AD%E5%BF%83-3.psd">
   <Marks>
     <LengthMark direction="3" color="16711680" length="143" x="517" y="120"/>
     <LengthMark direction="3" color="16711680" length="275" x="384" y="263"/>
@@ -22,5 +22,12 @@
     <LengthMark direction="12" color="16711680" length="9" x="491" y="380"/>
     <LengthMark direction="12" color="16711680" length="256" x="120" y="369"/>
     <LengthMark direction="12" color="16711680" length="256" x="824" y="374"/>
+    <LengthMark direction="3" color="16711680" length="194" x="585" y="538"/>
+    <LengthMark direction="3" color="16711680" length="8" x="409" y="297"/>
+    <LengthMark direction="3" color="16711680" length="93" x="621" y="508"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="13421772" offsetX="25" offsetY="10" x="734" y="389"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="15461355" offsetX="25" offsetY="10" x="734" y="410"/>
+    <LengthMark direction="12" color="16711680" length="15" x="545" y="489"/>
+    <LengthMark direction="3" color="16711680" length="26" x="862" y="42"/>
   </Marks>
 </MKM>
