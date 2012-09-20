@@ -1,112 +1,112 @@
 !!! 5
-%html{'lang' => 'zh-CN'}/
-%head
-  %meta{'charset' => 'UTF-8'}/
-  %title 价值传媒技术中心
-  %meta{:name => "keywords", :content  => "价值传媒, 极客公园, 技术中心"}
-  %meta{:name => "description", :content  => "价值传媒技术中心"}
-  %link{:rel => "shortcut icon", :href  => "favicon.ico"}
-  %link{:rel => "stylesheet", :href  => "css/style.css"}
-  %script{:src  => "js/jquery-1.8.1.min.js"}
-  %script{:src  => "js/modernizr.js"}
-  :javascript
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-xxxxxxx-xx']);
-    _gaq.push(['_trackPageview']);
-
-    (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-%body
-  %header.header
-    .top-box
-      %h1
-        %a{:href => "/",:title => "价值传媒技术中心"}
-          %span.logo.icons 价值传媒技术中心
-      %form#searchform{:action => "", :method => "post"}
-        <input id="s" name="q" type="text" value="" placeholder="搜索">
-        <input type="submit" class="icons" value="搜索" id="searchsubmit">
-    %nav.menu
-      %ul
-        %li
-          %a{:href => "index.html"}
-            %span.current 文档中心
-        %li
-          %a{:href => "/"}
-            %span 技术团队
-        %li
-          %a{:href => "/"}
-            %span 实习生
-        %li.login-item
-          %a{:href => "login.html"}
-            %span 登录
-    .breadcrumb
-      %ul
-        %li.home
-          %a{:href => "index.html"}
-            %span.icons 
-              %i.icons
-        %li
-          %a{:href => "/"}
-            %span.icons 文档管理
-        %li.current
-          %a{:href => "/"}
-            %span.icons 全部文档
-  .container
-    .content-box
-      .content
-        %h2.title 全部文档
-        .content-body
-          %h3 极客公园后台需求文档
-          .post-body
-            %p 以下是新版的说明，可以参考，如果有和今天（8月27日）开会讨论结果不一致的地方，请马上问我或者宝永。为了直观，我把阿禅发给我的原型图给大家发一份，但具体呈现方式，布局以及呈现的字段以设计稿和我这份文档为准。请@玉杰 和 @光俊 注意
-            %ul
-              %li 
-                主推荐位（“主推荐位”管理模块）
-                %p 呈现：只放一张图
-                %p 标题做在图上
-                %p 每日至少更新一次
-                %p 后台录入：编辑上传  图片，标题 以对应链接
-                %p 注意：图片未加载时候，应显示标题，头图的标题位置不定，但此处位置可以固定
-              %li 
-                极客早知道（利用现有后台，增加 首页配图和首页摘要字段）
-                %p 呈现：配图
-                %p 图片下面的文字以段落形式呈现
-                %p 需要呈现logo（点击进入标签页面）
-                %p 周二到周六显示极客早知道，周日显示极客微周刊
-                %p 后台录入：
-                %ul
-                  %li 
-                    %p 在现有后台基础上增加“首页配图”，“首页摘要”，“文章类型”
-                  %li
-                    %p 图片的title属性为当期极客早知道的标题
-                  %li
-                    %p 允许编辑添加<li>标签，如果需要锚点，则编辑自行添加
-                %p 注意：需要根据早知道和微周刊的图片，logo风格不同来设计
-            .attachment
-              %h3 附件
-              .download
-                %a{:href => "/",:title => "附件描述文字~~~~~~~"} 首页需求整理_0822.docx
-    .sidebar
-      %h3.title 文档中心
-      %ul
-        %li.icons
-          %a{:href => "/"}
-            %span 全部文档
-        %li.icons
-          %a{:href => "/"}
-            %span 极客公园文档
-        %li.icons
-          %a{:href => "/"}
-            %span ITValue文档
-        %li.icons
-          %a{:href => "/"}
-            %span 商业价值客户端文档
-        %li.icons
-          %a{:href => "/"}
-            %span 其他文档
-  %footer.footer
-    .copyright Copyright &copy;  2009 - 2012 北京文德致远文化传播有限公司
-  %script{:src  => "js/script.js"}
+%html{'lang' => 'zh-CN'}
+  %head
+    %meta{'charset' => 'UTF-8'}/
+    %title 价值传媒技术中心
+    %meta{:name => "keywords", :content  => "价值传媒, 极客公园, 技术中心"}
+    %meta{:name => "description", :content  => "价值传媒技术中心"}
+    %link{:rel => "shortcut icon", :href  => "favicon.ico"}
+    %link{:rel => "stylesheet", :href  => "css/style.css"}
+    %script{:src  => "js/jquery-1.8.1.min.js"}
+    %script{:src  => "js/modernizr.js"}
+    :javascript
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-xxxxxxx-xx']);
+      _gaq.push(['_trackPageview']);
+  
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+  %body
+    %header.header
+      .top-box
+        %h1
+          %a{:href => "/",:title => "价值传媒技术中心"}
+            %span.logo.icons 价值传媒技术中心
+        %form#searchform{:action => "/", :method => "post"}
+          <input id="s" name="q" type="text" value="" placeholder="搜索">
+          <input type="submit" class="icons" value="搜索" id="searchsubmit">
+      %nav.menu
+        %ul
+          %li
+            %a{:href => "index.html"}
+              %span.current 文档中心
+          %li
+            %a{:href => "/"}
+              %span 技术团队
+          %li
+            %a{:href => "/"}
+              %span 实习生
+          %li.login-item
+            %a{:href => "login.html"}
+              %span 登录
+      .breadcrumb
+        %ul
+          %li.home
+            %a{:href => "index.html"}
+              %span.icons 
+                %i.icons
+          %li
+            %a{:href => "/"}
+              %span.icons 文档管理
+          %li.current
+            %a{:href => "/"}
+              %span.icons 全部文档
+    .container
+      .content-box
+        .content
+          %h2.title 全部文档
+          .content-body
+            %h3 极客公园后台需求文档
+            .post-body
+              %p 以下是新版的说明，可以参考，如果有和今天（8月27日）开会讨论结果不一致的地方，请马上问我或者宝永。为了直观，我把阿禅发给我的原型图给大家发一份，但具体呈现方式，布局以及呈现的字段以设计稿和我这份文档为准。请@玉杰 和 @光俊 注意
+              %ul
+                %li 
+                  主推荐位（“主推荐位”管理模块）
+                  %p 呈现：只放一张图
+                  %p 标题做在图上
+                  %p 每日至少更新一次
+                  %p 后台录入：编辑上传  图片，标题 以对应链接
+                  %p 注意：图片未加载时候，应显示标题，头图的标题位置不定，但此处位置可以固定
+                %li 
+                  极客早知道（利用现有后台，增加 首页配图和首页摘要字段）
+                  %p 呈现：配图
+                  %p 图片下面的文字以段落形式呈现
+                  %p 需要呈现logo（点击进入标签页面）
+                  %p 周二到周六显示极客早知道，周日显示极客微周刊
+                  %p 后台录入：
+                  %ul
+                    %li 
+                      %p 在现有后台基础上增加“首页配图”，“首页摘要”，“文章类型”
+                    %li
+                      %p 图片的title属性为当期极客早知道的标题
+                    %li
+                      %p 允许编辑添加&lt;li&gt;标签，如果需要锚点，则编辑自行添加
+                  %p 注意：需要根据早知道和微周刊的图片，logo风格不同来设计
+              .attachment
+                %h3 附件
+                .download
+                  %a{:href => "/",:title => "附件描述文字~~~~~~~"} 首页需求整理_0822.docx
+      .sidebar
+        %h3.title 文档中心
+        %ul
+          %li.icons
+            %a{:href => "/"}
+              %span 全部文档
+          %li.icons
+            %a{:href => "/"}
+              %span 极客公园文档
+          %li.icons
+            %a{:href => "/"}
+              %span ITValue文档
+          %li.icons
+            %a{:href => "/"}
+              %span 商业价值客户端文档
+          %li.icons
+            %a{:href => "/"}
+              %span 其他文档
+    %footer.footer
+      .copyright Copyright &copy;  2009 - 2012 北京文德致远文化传播有限公司
+    %script{:src  => "js/script.js"}  
