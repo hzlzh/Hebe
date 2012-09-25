@@ -139,8 +139,8 @@ input{outline:none;}
 }
 .container{overflow: hidden;
   .content-box{float:left;width: 630px;
-    .content{background-color:@white;padding:20px 10px;.box-shadow();margin-bottom:10px;
-      h2.title{margin: 0 10px 0;padding-bottom: 8px; line-height: 14px;border-bottom: 2px solid @blue;margin-bottom:5px;}
+    .content{background-color:@white;padding:20px;.box-shadow();margin-bottom:10px;
+      h2.title{margin: 0 0 5px;padding-bottom: 8px; line-height: 14px;border-bottom: 2px solid @blue;}
       .content-body{
         h3{font-size:18px;margin: 25px 10px 20px;}
         .post-body{margin: 0 10px;
@@ -173,7 +173,8 @@ input{outline:none;}
                 .create-time{}
               }
             }
-            .date{margin-right: 10px;margin-top: 7px;.rounded-corners(7px); float:right;background-color:#ddd;padding: 4px 16px; line-height: 12px;font-size: 12px;
+            &:hover .date{.transition();background-color:#ddd;}
+            .date{margin-right: 10px;margin-top: 7px;.rounded-corners(7px); float:right;background-color:#f4f4f4;padding: 4px 16px; line-height: 12px;font-size: 12px;
               a{color: #666;}
               &:hover{background-color:@blue;color: @white;
               a{color: @white;}
