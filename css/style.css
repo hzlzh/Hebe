@@ -469,6 +469,7 @@ input {
 }
 .container .content-box .content .categories {
   padding-top: 15px;
+  margin-bottom: 10px;
 }
 .container .content-box .content .categories ul {
   overflow: hidden;
