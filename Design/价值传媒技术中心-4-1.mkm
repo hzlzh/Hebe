@@ -4,5 +4,8 @@
     <LengthMark direction="12" color="16711680" length="10" x="340" y="237"/>
     <LengthMark direction="3" color="16711680" length="26" x="378" y="246"/>
     <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="16053492" offsetX="25" offsetY="10" x="609" y="563"/>
+    <LengthMark direction="3" color="16711680" length="20" x="422" y="226"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="15395562" offsetX="25" offsetY="10" x="479" y="234"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="1417490" offsetX="25" offsetY="10" x="408" y="229"/>
   </Marks>
 </MKM>

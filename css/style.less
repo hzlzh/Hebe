@@ -84,6 +84,9 @@ transition: all @time ease-out;
   -moz-box-shadow:1px 1px 3px #cccccc;
   -webkit-box-shadow:1px 1px 3px #cccccc;
 }
+.text-shadow (@px:1px,@color:#fff){
+  text-shadow:@px @px @px @color;
+}
 
 body {font-size: 12px;font-family:"宋体";
   width:960px;margin:0 auto;background-color:@grey;
@@ -141,6 +144,15 @@ input{outline:none;}
   .content-box{float:left;width: 630px;
     .content{background-color:@white;padding:20px;.box-shadow();margin-bottom:10px;
       h2.title{margin: 0 0 5px;padding-bottom: 8px; line-height: 14px;border-bottom: 2px solid @blue;}
+      .categories{padding-top: 15px;
+        ul{overflow:hidden;
+          li{float:left;
+            a{.text-shadow();background-color:#eaeaea;display: block;font-size: 12px;line-height: 12px;margin-right: 10px;padding: 4px 6px;
+              &:hover{.text-shadow(1px,#999);background-color:@blue;color: @white;}
+            }
+          }
+        }
+      }
       .content-body{
         h3{font-size:18px;margin: 25px 10px 20px;}
         .post-body{margin: 0 10px;

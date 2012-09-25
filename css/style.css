@@ -467,6 +467,29 @@ input {
   line-height: 14px;
   border-bottom: 2px solid #15a112;
 }
+.container .content-box .content .categories {
+  padding-top: 15px;
+}
+.container .content-box .content .categories ul {
+  overflow: hidden;
+}
+.container .content-box .content .categories ul li {
+  float: left;
+}
+.container .content-box .content .categories ul li a {
+  text-shadow: 1px 1px 1px #ffffff;
+  background-color: #eaeaea;
+  display: block;
+  font-size: 12px;
+  line-height: 12px;
+  margin-right: 10px;
+  padding: 4px 6px;
+}
+.container .content-box .content .categories ul li a:hover {
+  text-shadow: 1px 1px 1px #999999;
+  background-color: #15a112;
+  color: #ffffff;
+}
 .container .content-box .content .content-body h3 {
   font-size: 18px;
   margin: 25px 10px 20px;
