@@ -3,5 +3,10 @@
     <LengthMark direction="3" color="16711680" length="40" x="482" y="246"/>
     <LengthMark direction="12" color="16711680" length="590" x="140" y="249"/>
     <LengthMark direction="3" color="16711680" length="40" x="566" y="207"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="16774602" offsetX="25" offsetY="10" x="605" y="274"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="6710886" offsetX="25" offsetY="10" x="331" y="265"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="16777215" offsetX="25" offsetY="10" x="225" y="305"/>
+    <LengthMark direction="12" color="16711680" length="45" x="141" y="277"/>
+    <LengthMark direction="3" color="16711680" length="564" x="130" y="162"/>
   </Marks>
 </MKM>

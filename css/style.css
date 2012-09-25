@@ -454,6 +454,7 @@ input {
   width: 630px;
 }
 .container .content-box .content {
+  min-height: 350px;
   background-color: #ffffff;
   padding: 20px;
   box-shadow: 1px 1px 3px #cccccc;
@@ -494,6 +495,15 @@ input {
 .container .content-box .content .content-body h3 {
   font-size: 18px;
   margin: 25px 10px 20px;
+}
+.container .content-box .content .content-body .info {
+  background-position: -287px -141px;
+  margin-top: 35px;
+  background-color: #FFF5CA;
+  padding: 14px 0;
+  line-height: 12px;
+  color: #666;
+  padding-left: 45px;
 }
 .container .content-box .content .content-body .post-body {
   margin: 0 10px;
