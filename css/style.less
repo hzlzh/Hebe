@@ -122,21 +122,21 @@ input{outline:none;}
       }
     }
   }
-  .breadcrumb{margin-bottom:15px;
-    ul{overflow: hidden;
-      li{float:left;line-height: 12px;height: 12px;
-        span{display:block;background-position:right -67px;margin-right: 7px;padding-right: 11px;font-size: 12px;line-height: 12px;}
-        a{
-          color: @black;
-          &:hover{color:@blue;}
-        }
-        &.home{position:relative;
-          span{height: 12px;text-indent: 999px;display: inline-block;width: 10px;}
-          i{background-position: 0 -48px;display: inline-block;height: 10px;left: 0;position: absolute;top: 1px;width: 10px;}
-        }
-        &.current a{color:@blue;}
-        &:last-child span{background: none;}
+}
+.breadcrumb{margin-bottom:15px;
+  ul{overflow: hidden;
+    li{float:left;line-height: 12px;height: 12px;
+      span{display:block;background-position:right -67px;margin-right: 7px;padding-right: 11px;font-size: 12px;line-height: 12px;}
+      a{
+        color: @black;
+        &:hover{color:@blue;}
       }
+      &.home{position:relative;
+        span{height: 12px;text-indent: 999px;display: inline-block;width: 10px;}
+        i{background-position: 0 -48px;display: inline-block;height: 10px;left: 0;position: absolute;top: 1px;width: 10px;}
+      }
+      &.current a{color:@blue;}
+      &:last-child span{background: none;}
     }
   }
 }

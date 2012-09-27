@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
 				"out",
 				"outline"
 			],
@@ -14,10 +26,6 @@
 			[
 				"bg",
 				"bgc	background-color"
-			],
-			[
-				"text",
-				"text-decoration"
 			],
 			[
 				"bo",
@@ -114,10 +122,6 @@
 			[
 				"fo",
 				"font-size"
-			],
-			[
-				"pa",
-				"padding"
 			],
 			[
 				"br",
@@ -272,60 +276,19 @@
 	"buffers":
 	[
 		{
-			"file": "index.haml",
-			"settings":
-			{
-				"buffer_size": 5070,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "login.haml",
-			"settings":
-			{
-				"buffer_size": 2417,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "post.haml",
-			"settings":
-			{
-				"buffer_size": 3452,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "css/style.less",
 			"settings":
 			{
-				"buffer_size": 9289,
+				"buffer_size": 9956,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "index.html",
+			"file": "search.html",
 			"settings":
 			{
-				"buffer_size": 7448,
+				"buffer_size": 3627,
 				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "login.html",
-			"settings":
-			{
-				"buffer_size": 2829,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "[\n    {\n        \"type\": \"user\",\n        \"title\": \"<span class='user'>louy0427</span>\",\n        \"href\": \"/user/home/index/7275\",\n        \"avatar\": \"http://www.geekpark.net/uploads/g_avatar/0850fd3abbe463d5c1cbb6057825a689_thumb.jpg\"\n    },\n    {\n        \"type\": \"user\",\n        \"title\": \"<span class='user'>test_user2</span>\",\n        \"href\": \"/user/home/index/7356\",\n        \"avatar\": \"http://www.geekpark.net/uploads/g_avatar/e1c532c907ec622e70dc0e024992656c_thumb.jpg\"\n    },\n    {\n        \"type\": \"user\",\n        \"title\": \"<span class='user'>zhong7129</span>\",\n        \"href\": \"/user/home/index/7362\",\n        \"avatar\": \"http://www.geekpark.net/uploads/g_avatar/155400f6226743372ee7995adbb46ac9_thumb.jpg\"\n    },\n    {\n        \"type\": \"user\",\n        \"title\": \"<span class='user'>emily2ly</span>\",\n        \"href\": \"/user/home/index/7377\",\n        \"avatar\": \"http://www.geekpark.net/uploads/g_avatar/d275b31541726c0f42dbfd26af665b9d_thumb.jpg\"\n    },\n    {\n        \"type\": \"user\",\n        \"title\": \"<span class='user'>hqlong2030</span>\",\n        \"href\": \"/user/home/index/7505\",\n        \"avatar\": \"http://www.geekpark.net/uploads/g_avatar/b381361f7a5ca30c4efedf9283cd28e3_thumb.jpg\"\n    },\n    {\n        \"type\": \"user\",\n        \"title\": \"<span class='user'>david214</span>\",\n        \"href\": \"/user/home/index/7520\",\n        \"avatar\": \"http://www.geekpark.net/uploads/g_avatar/e9dd2bfeeddc6bf21e600c7089ad432c_thumb.jpg\"\n    },\n    {\n        \"type\": \"user\",\n        \"title\": \"<span class='user'>yzz8729</span>\",\n        \"href\": \"/user/home/index/7525\",\n        \"avatar\": \"http://www.geekpark.net/uploads/g_avatar/57f0eb48d3336c64e3a5e118c466cbfa_thumb.jpg\"\n    },\n    {\n        \"type\": \"user\",\n        \"title\": \"<span class='user'>love2wind</span>\",\n        \"href\": \"/user/home/index/7586\",\n        \"avatar\": \"http://www.geekpark.net/uploads/9/o/6/e/s/9o6esa1276059779/9o6esa1276059779_30_30.png?1348037225\"\n    },\n    {\n        \"type\": \"user\",\n        \"title\": \"<span class='user'>jiezhou22</span>\",\n        \"href\": \"/user/home/index/7815\",\n        \"avatar\": \"http://www.geekpark.net/uploads/g_avatar/23216d536d18ce1e8bc91927907d76cc_thumb.jpg\"\n    },\n    {\n        \"type\": \"user\",\n        \"title\": \"<span class='user'>zmguan729</span>\",\n        \"href\": \"/user/home/index/7842\",\n        \"avatar\": \"http://www.geekpark.net/uploads/5/y/o/d/2/5yod2z2181261873/5yod2z2181261873_30_30.jpg?1348037225\"\n    }\n]",
-			"settings":
-			{
-				"buffer_size": 2405,
-				"line_ending": "Unix",
-				"name": "["
 			}
 		}
 	],
@@ -389,15 +352,16 @@
 	},
 	"file_history":
 	[
+		"/Users/hzlzh/Project/hzlzh/Hebe/index.haml",
+		"/Users/hzlzh/Project/hzlzh/Hebe/css/style.less",
+		"/Users/hzlzh/Project/hzlzh/Hebe/search.haml",
+		"/Users/hzlzh/Project/hzlzh/Hebe/index.html",
+		"/Users/hzlzh/Project/hzlzh/Hebe/login.html",
+		"/Users/hzlzh/Project/hzlzh/Hebe/post.haml",
+		"/Users/hzlzh/Project/hzlzh/Hebe/login.haml",
 		"/Users/hzlzh/Project/hzlzh/Hebe/post.html",
 		"/Users/hzlzh/Project/hzlzh/Hebe/js/script.js",
-		"/Users/hzlzh/Project/hzlzh/Hebe/css/style.less",
-		"/Users/hzlzh/Project/hzlzh/Hebe/login.html",
-		"/Users/hzlzh/Project/hzlzh/Hebe/index.html",
 		"/Users/hzlzh/Project/hzlzh/Hebe/css/style.css",
-		"/Users/hzlzh/Project/hzlzh/Hebe/index.haml",
-		"/Users/hzlzh/Project/hzlzh/Hebe/login.haml",
-		"/Users/hzlzh/Project/hzlzh/Hebe/post.haml",
 		"/Applications/XAMPP/xamppfiles/htdocs/iapps2012/application/views/layouts/default_pub.php",
 		"/Applications/XAMPP/xamppfiles/htdocs/iapps2012/application/views/partial/banner.php",
 		"/Applications/XAMPP/xamppfiles/htdocs/iapps2012/public/js/script.js",
@@ -499,6 +463,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"content",
 			"(\"#",
 			"h3",
 			"260",
@@ -625,8 +590,7 @@
 			"console",
 			"邮箱地址无效",
 			"do_load_captcha",
-			"        // do_load_captcha();\n        // do_load_captcha();\ndo_load_captcha",
-			"        // do_load_captcha();\ndo_load_captcha"
+			"        // do_load_captcha();\n        // do_load_captcha();\ndo_load_captcha"
 		],
 		"highlight": false,
 		"in_selection": false,
@@ -665,107 +629,28 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"sheets":
+			[
+			]
+		},
+		{
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "index.haml",
-					"settings":
-					{
-						"buffer_size": 5070,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1106,
-								1106
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Rails/Ruby Haml.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "login.haml",
-					"settings":
-					{
-						"buffer_size": 2417,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								870,
-								870
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Rails/Ruby Haml.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "post.haml",
-					"settings":
-					{
-						"buffer_size": 3452,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								642,
-								642
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Rails/Ruby Haml.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
 					"file": "css/style.less",
 					"settings":
 					{
-						"buffer_size": 9289,
+						"buffer_size": 9956,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								6867,
-								6867
+								3530,
+								3530
 							]
 						],
 						"settings":
@@ -774,32 +659,26 @@
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
-						"translation.x": 54.0,
-						"translation.y": 2235.0,
+						"translation.x": 0.0,
+						"translation.y": 1218.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 2,
-			"sheets":
-			[
+				},
 				{
-					"buffer": 4,
-					"file": "index.html",
+					"buffer": 1,
+					"file": "search.html",
 					"settings":
 					{
-						"buffer_size": 7448,
+						"buffer_size": 3627,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								457,
-								457
+								0,
+								0
 							]
 						],
 						"settings":
@@ -810,64 +689,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "login.html",
-					"settings":
-					{
-						"buffer_size": 2829,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								862,
-								862
-							]
-						],
-						"settings":
-						{
-							"is_xml": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"settings":
-					{
-						"buffer_size": 2405,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								745,
-								745
-							]
-						],
-						"settings":
-						{
-							"auto_name": "[",
-							"is_xml": false,
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 109.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -996,11 +818,11 @@
 	},
 	"select_project":
 	{
-		"height": 0.0,
+		"height": 500.0,
 		"selected_items":
 		[
 		],
-		"width": 0.0
+		"width": 380.0
 	},
 	"show_minimap": false,
 	"show_open_files": false,

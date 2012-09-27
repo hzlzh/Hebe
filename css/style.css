@@ -397,18 +397,18 @@ input {
 .header .menu ul li.login-item {
   float: right;
 }
-.header .breadcrumb {
+.breadcrumb {
   margin-bottom: 15px;
 }
-.header .breadcrumb ul {
+.breadcrumb ul {
   overflow: hidden;
 }
-.header .breadcrumb ul li {
+.breadcrumb ul li {
   float: left;
   line-height: 12px;
   height: 12px;
 }
-.header .breadcrumb ul li span {
+.breadcrumb ul li span {
   display: block;
   background-position: right -67px;
   margin-right: 7px;
@@ -416,22 +416,22 @@ input {
   font-size: 12px;
   line-height: 12px;
 }
-.header .breadcrumb ul li a {
+.breadcrumb ul li a {
   color: #4d4d4d;
 }
-.header .breadcrumb ul li a:hover {
+.breadcrumb ul li a:hover {
   color: #15a112;
 }
-.header .breadcrumb ul li.home {
+.breadcrumb ul li.home {
   position: relative;
 }
-.header .breadcrumb ul li.home span {
+.breadcrumb ul li.home span {
   height: 12px;
   text-indent: 999px;
   display: inline-block;
   width: 10px;
 }
-.header .breadcrumb ul li.home i {
+.breadcrumb ul li.home i {
   background-position: 0 -48px;
   display: inline-block;
   height: 10px;
@@ -440,10 +440,10 @@ input {
   top: 1px;
   width: 10px;
 }
-.header .breadcrumb ul li.current a {
+.breadcrumb ul li.current a {
   color: #15a112;
 }
-.header .breadcrumb ul li:last-child span {
+.breadcrumb ul li:last-child span {
   background: none;
 }
 .container {
