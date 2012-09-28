@@ -492,6 +492,11 @@ input {
   background-color: #15a112;
   color: #ffffff;
 }
+.container .content-box .content .categories ul li.current a {
+  text-shadow: 0px 0px 0px #ffffff;
+  background-color: #15a112;
+  color: #ffffff;
+}
 .container .content-box .content .content-body h3 {
   font-size: 18px;
   margin: 25px 10px 20px;
@@ -728,6 +733,9 @@ input {
 }
 .container .sidebar ul li:hover {
   background-position: -318px -105px;
+}
+.container .sidebar ul li.current a {
+  color: #15a112;
 }
 .footer .copyright {
   margin: 30px 0 49px;
